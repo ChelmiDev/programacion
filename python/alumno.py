@@ -27,3 +27,4 @@ alumno1 = Alumno("Ana", 9)
 
 alumno.imprimir()
 alumno1.imprimir()
+
