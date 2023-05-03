@@ -1,0 +1,13 @@
+
+button::before{
+    content: 'Pasa por encima';
+    font-size: xx-large;
+}
+button:hover::before{
+    content: 'Hecho';
+    
+}
+.button:hover{
+    color: aliceblue;
+     background-color: green;
+}
